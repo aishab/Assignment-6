@@ -1,0 +1,58 @@
+body{
+    width: 600px;
+    height: 100%;
+}
+
+section.sec1{
+background-color: rgba(255, 155, 0, 0.63);
+visibility: hidden;
+position:absolute;
+overflow: scroll;
+width: 500px;
+height:75%;
+margin: 15px;
+
+}
+
+section.sec2{
+    background-color: rgba(64, 92, 124, 0.05);    
+    visibility: hidden;
+    position:absolute;
+    overflow: scroll;
+    width: 500px;
+    height:75%;
+    margin: 15px;
+}
+
+section.sec3{
+background-color: rgba(102, 170, 176, 1);
+visibility: hidden;
+position:absolute;
+overflow: scroll;
+width: 500px;
+height:75%;
+margin: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+
+label {
+    margin-top: 100px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+
+button {
+    margin: 10px 5px;
+}
+footer{
+    position: relative;
+    top:450px;
+}
